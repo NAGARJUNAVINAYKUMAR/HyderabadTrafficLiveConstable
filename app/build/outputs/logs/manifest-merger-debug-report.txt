@@ -1,0 +1,1119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3ce8ba21765191272ceb5fca70e86de3\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\220ae695380e85551745015c2e1b8b2a\play-services-12.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d607c657d8fe6bad3c23b641e7cd5e0\play-services-cast-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\509a5cee1a8ef6861adca4d4fae37ad3\play-services-ads-12.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\affb95c6d296e77910fd9cdc4e31de57\play-services-tagmanager-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cb7b4aa0e49c045c221fc874a7749d24\play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c7c52f6660c284f6f05f9544d5616c4\play-services-auth-api-phone-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ecf7ccc0dc602948f8d0e60728ff4f0b\play-services-auth-base-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ac07ef985d3e72dd8809c257c9d49c2a\firebase-config-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\414227308e19d657975d498c6b72e2ad\play-services-awareness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b807421e6b1ad9617e588ff73818ddcf\play-services-games-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7a1a3f57c57264822a8284b734bcc2f4\play-services-drive-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7021c19baa0fb24212afe8acfaa1f0f\play-services-fido-12.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2b608286dfc08a69fd904fe98373e7cb\firebase-dynamic-links-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\304af567fabb5f8411571fa42554c87d\play-services-fitness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9150913b7b4d8517d606863f66181c7f\firebase-appindexing-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c74c9082c92495c205d18ff9e2a619e3\play-services-wallet-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7c8377176e02b1ab9b6161a451ddc13\play-services-identity-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add702a3a1aef6eadd4313484a38bbf2\play-services-instantapps-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0eb3f7ee19185e653503adf7ad99f752\play-services-location-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c27014fd3e0d9694829f447686ef007\play-services-places-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3648e0833f80513e64add7a74595fa49\play-services-panorama-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0cd8a20f4ff998979e68695e056106eb\play-services-plus-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add3799a00e9216ece0d64dd667270af\play-services-safetynet-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3dcb9c701cb94bfdeed860324e3d7f7f\play-services-vision-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7f92e6a95ce5efa610c444625cf5790a\play-services-vision-common-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43fe30964ea147b4ee6ebbef7f7b228\play-services-wearable-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46c2154a9fc31c47dcb6d0e5442f0240\firebase-database-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d19721bead7315bb9fa784fee25bdb25\firebase-database-connection-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\616603fdf8ffc636f700e6e014d2f384\firebase-storage-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\098515a8b252c0993502925e4a2f70f0\firebase-storage-common-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\769790639664a02ddf5db119cecccf9a\play-services-gass-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\78fef9e11d4877a4d6b21fc546f0f600\play-services-tasks-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3f1ddc69544fb1d99014591bd6b1b3d5\play-services-ads-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7a1bd3671ffbce4a2bc400a5c95a723\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e26629f13ebaed703353172e6fd8bf76\play-services-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2da401d7239213a9a5393d10ba7e2dc1\play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2fa01b813d034d39c25e0e5ba2f41c23\play-services-appinvite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4fb93d2c375faa318c9c846842dae9b3\play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d1327e1f9a9ae5533655b6026f69269\play-services-auth-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef640dd02b2e0c65b8808179cb7152b\play-services-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a79c7c9ccaa38f8217ba150b0f4c0b92\play-services-cast-framework-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cc2138625a6f4704777aa6cd4669bd2f\play-services-cast-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1f42b2f80c348f1a6d2fb267da5a4bc1\play-services-basement-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\90e426a6ee1ba19b8d697ec1dffc8ad7\firebase-config-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\48053fa022098e47f3e8cfa05169ca02\play-services-awareness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\44e33e1a48ddcd46067c0263dd78670b\firebase-crash-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\5270d8cc7b73a1088a42a32151e35590\play-services-drive-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c788b1aa12168d4d7de0b802a1add4a0\play-services-fido-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4706f7d4b5a293fa84e1dea138c86a38\firebase-auth-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\86fd5217be89baf3dab531db487c1713\firebase-database-connection-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a77722addacf43b7dae773ef49563ceb\firebase-database-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2a031255061024a47a9281b3bb8549b5\firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c02b3f6abea322a762c78965a6ee7d0\firebase-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\45fb6b7d47529b5bf5954bca91233a57\firebase-messaging-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b82ce2d324f861a1eb42bad18f5c413a\firebase-storage-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d47a360adfe326430d3dc6c465d9981d\firebase-storage-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c2fe50b5e520d776dc5e3f2dc461dfc\firebase-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0f5debe57fb5ad747071055b3041c4b5\play-services-fitness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb1633f892f94f8358a5086682f58c33\play-services-games-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a256907134ca657d4c2b4c982e0e7d7c\play-services-gass-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cf1ed41d71e9e23ab38539fe559214df\play-services-gcm-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c286aaa6a96da8d75300b9cbd19840f\firebase-appindexing-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d0b6224e51ffc701616b0b7fa886fd9f\play-services-identity-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9650f56ec5b8e48ab69674841faf9ece\play-services-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46d9f116e59ae38053e992d42142b74a\play-services-instantapps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\702af4f94c84f0f31eaa39b7fd3ea551\play-services-location-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\469a2b9d4c72253f78c448509d50d52f\play-services-maps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e07e6288970ca8fc6643dce862cc0b80\firebase-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b4519ea983501685ce66ec42410a2c62\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0d836f32a7ba71489d72dfb7b2729613\play-services-nearby-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c8adc4b8cd7e77c9dae2346220d98ed\play-services-panorama-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1e4e9a24f5cd71ed79d0f30ac79a2749\play-services-places-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a756cf3ad8ffd75bffb6e252273eb06d\play-services-plus-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c64f1ca05ee803c9e4925b26ba1b57ac\play-services-safetynet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eaf5481e630c0a8668bbe83760f97414\play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6ab20106c5730de48abc39400a769c7c\play-services-tagmanager-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ff87a7705bac2fbd53e1b80240ff34c4\play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\65dbefb22cc1b752ed9ae0af2607f8c0\play-services-tasks-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\91cacca12c0937bf4be2916daeae694e\play-services-vision-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bd9d0f64c3b17f765ba842c5bd8a11c6\play-services-vision-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2f3bbf00a52547ba4fe536b513c33cc\play-services-wallet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb13f4f17c547abe8c9f78c4fbef766a\play-services-wearable-license-12.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:20:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:20:22-65
+permission#com.empover.htconstable.permission.C2D_MESSAGE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:23:5-25:47
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:24:9-70
+uses-permission#com.empover.htconstable.permission.C2D_MESSAGE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:27:5-86
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:27:22-83
+permission#com.empover.htconstable.permission.MAPS_RECEIVE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:29:5-31:47
+	android:protectionLevel
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:30:9-71
+uses-permission#com.empover.htconstable.permission.MAPS_RECEIVE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:33:5-87
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:33:22-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:36:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:36:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:39:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:42:5-80
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:42:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:45:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:47:5-78
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:47:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:49:5-98
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:49:22-95
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:52:5-66
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:52:22-63
+application
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:55:5-110:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\220ae695380e85551745015c2e1b8b2a\play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\220ae695380e85551745015c2e1b8b2a\play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d607c657d8fe6bad3c23b641e7cd5e0\play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d607c657d8fe6bad3c23b641e7cd5e0\play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cb7b4aa0e49c045c221fc874a7749d24\play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cb7b4aa0e49c045c221fc874a7749d24\play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ac07ef985d3e72dd8809c257c9d49c2a\firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ac07ef985d3e72dd8809c257c9d49c2a\firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\414227308e19d657975d498c6b72e2ad\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\414227308e19d657975d498c6b72e2ad\play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b807421e6b1ad9617e588ff73818ddcf\play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b807421e6b1ad9617e588ff73818ddcf\play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7a1a3f57c57264822a8284b734bcc2f4\play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7a1a3f57c57264822a8284b734bcc2f4\play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7021c19baa0fb24212afe8acfaa1f0f\play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7021c19baa0fb24212afe8acfaa1f0f\play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2b608286dfc08a69fd904fe98373e7cb\firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2b608286dfc08a69fd904fe98373e7cb\firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\304af567fabb5f8411571fa42554c87d\play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\304af567fabb5f8411571fa42554c87d\play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9150913b7b4d8517d606863f66181c7f\firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9150913b7b4d8517d606863f66181c7f\firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7c8377176e02b1ab9b6161a451ddc13\play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7c8377176e02b1ab9b6161a451ddc13\play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0eb3f7ee19185e653503adf7ad99f752\play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0eb3f7ee19185e653503adf7ad99f752\play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c27014fd3e0d9694829f447686ef007\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c27014fd3e0d9694829f447686ef007\play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3648e0833f80513e64add7a74595fa49\play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3648e0833f80513e64add7a74595fa49\play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0cd8a20f4ff998979e68695e056106eb\play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0cd8a20f4ff998979e68695e056106eb\play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add3799a00e9216ece0d64dd667270af\play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add3799a00e9216ece0d64dd667270af\play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3dcb9c701cb94bfdeed860324e3d7f7f\play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3dcb9c701cb94bfdeed860324e3d7f7f\play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7f92e6a95ce5efa610c444625cf5790a\play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7f92e6a95ce5efa610c444625cf5790a\play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43fe30964ea147b4ee6ebbef7f7b228\play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43fe30964ea147b4ee6ebbef7f7b228\play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\769790639664a02ddf5db119cecccf9a\play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\769790639664a02ddf5db119cecccf9a\play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\78fef9e11d4877a4d6b21fc546f0f600\play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\78fef9e11d4877a4d6b21fc546f0f600\play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3f1ddc69544fb1d99014591bd6b1b3d5\play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3f1ddc69544fb1d99014591bd6b1b3d5\play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7a1bd3671ffbce4a2bc400a5c95a723\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7a1bd3671ffbce4a2bc400a5c95a723\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e26629f13ebaed703353172e6fd8bf76\play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e26629f13ebaed703353172e6fd8bf76\play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2da401d7239213a9a5393d10ba7e2dc1\play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2da401d7239213a9a5393d10ba7e2dc1\play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2fa01b813d034d39c25e0e5ba2f41c23\play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2fa01b813d034d39c25e0e5ba2f41c23\play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4fb93d2c375faa318c9c846842dae9b3\play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4fb93d2c375faa318c9c846842dae9b3\play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d1327e1f9a9ae5533655b6026f69269\play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d1327e1f9a9ae5533655b6026f69269\play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef640dd02b2e0c65b8808179cb7152b\play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef640dd02b2e0c65b8808179cb7152b\play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a79c7c9ccaa38f8217ba150b0f4c0b92\play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a79c7c9ccaa38f8217ba150b0f4c0b92\play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cc2138625a6f4704777aa6cd4669bd2f\play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cc2138625a6f4704777aa6cd4669bd2f\play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1f42b2f80c348f1a6d2fb267da5a4bc1\play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1f42b2f80c348f1a6d2fb267da5a4bc1\play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\90e426a6ee1ba19b8d697ec1dffc8ad7\firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\90e426a6ee1ba19b8d697ec1dffc8ad7\firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\48053fa022098e47f3e8cfa05169ca02\play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\48053fa022098e47f3e8cfa05169ca02\play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\44e33e1a48ddcd46067c0263dd78670b\firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\44e33e1a48ddcd46067c0263dd78670b\firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\5270d8cc7b73a1088a42a32151e35590\play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\5270d8cc7b73a1088a42a32151e35590\play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c788b1aa12168d4d7de0b802a1add4a0\play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c788b1aa12168d4d7de0b802a1add4a0\play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4706f7d4b5a293fa84e1dea138c86a38\firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4706f7d4b5a293fa84e1dea138c86a38\firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\86fd5217be89baf3dab531db487c1713\firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\86fd5217be89baf3dab531db487c1713\firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a77722addacf43b7dae773ef49563ceb\firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a77722addacf43b7dae773ef49563ceb\firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2a031255061024a47a9281b3bb8549b5\firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2a031255061024a47a9281b3bb8549b5\firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c02b3f6abea322a762c78965a6ee7d0\firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c02b3f6abea322a762c78965a6ee7d0\firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\45fb6b7d47529b5bf5954bca91233a57\firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\45fb6b7d47529b5bf5954bca91233a57\firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b82ce2d324f861a1eb42bad18f5c413a\firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b82ce2d324f861a1eb42bad18f5c413a\firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d47a360adfe326430d3dc6c465d9981d\firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d47a360adfe326430d3dc6c465d9981d\firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c2fe50b5e520d776dc5e3f2dc461dfc\firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c2fe50b5e520d776dc5e3f2dc461dfc\firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0f5debe57fb5ad747071055b3041c4b5\play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0f5debe57fb5ad747071055b3041c4b5\play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb1633f892f94f8358a5086682f58c33\play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb1633f892f94f8358a5086682f58c33\play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a256907134ca657d4c2b4c982e0e7d7c\play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a256907134ca657d4c2b4c982e0e7d7c\play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cf1ed41d71e9e23ab38539fe559214df\play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cf1ed41d71e9e23ab38539fe559214df\play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c286aaa6a96da8d75300b9cbd19840f\firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c286aaa6a96da8d75300b9cbd19840f\firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d0b6224e51ffc701616b0b7fa886fd9f\play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d0b6224e51ffc701616b0b7fa886fd9f\play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9650f56ec5b8e48ab69674841faf9ece\play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9650f56ec5b8e48ab69674841faf9ece\play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46d9f116e59ae38053e992d42142b74a\play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46d9f116e59ae38053e992d42142b74a\play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\702af4f94c84f0f31eaa39b7fd3ea551\play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\702af4f94c84f0f31eaa39b7fd3ea551\play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\469a2b9d4c72253f78c448509d50d52f\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\469a2b9d4c72253f78c448509d50d52f\play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e07e6288970ca8fc6643dce862cc0b80\firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e07e6288970ca8fc6643dce862cc0b80\firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b4519ea983501685ce66ec42410a2c62\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b4519ea983501685ce66ec42410a2c62\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0d836f32a7ba71489d72dfb7b2729613\play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0d836f32a7ba71489d72dfb7b2729613\play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c8adc4b8cd7e77c9dae2346220d98ed\play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c8adc4b8cd7e77c9dae2346220d98ed\play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1e4e9a24f5cd71ed79d0f30ac79a2749\play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1e4e9a24f5cd71ed79d0f30ac79a2749\play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a756cf3ad8ffd75bffb6e252273eb06d\play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a756cf3ad8ffd75bffb6e252273eb06d\play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c64f1ca05ee803c9e4925b26ba1b57ac\play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c64f1ca05ee803c9e4925b26ba1b57ac\play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eaf5481e630c0a8668bbe83760f97414\play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eaf5481e630c0a8668bbe83760f97414\play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6ab20106c5730de48abc39400a769c7c\play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6ab20106c5730de48abc39400a769c7c\play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ff87a7705bac2fbd53e1b80240ff34c4\play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ff87a7705bac2fbd53e1b80240ff34c4\play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\65dbefb22cc1b752ed9ae0af2607f8c0\play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\65dbefb22cc1b752ed9ae0af2607f8c0\play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\91cacca12c0937bf4be2916daeae694e\play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\91cacca12c0937bf4be2916daeae694e\play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bd9d0f64c3b17f765ba842c5bd8a11c6\play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bd9d0f64c3b17f765ba842c5bd8a11c6\play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2f3bbf00a52547ba4fe536b513c33cc\play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2f3bbf00a52547ba4fe536b513c33cc\play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb13f4f17c547abe8c9f78c4fbef766a\play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb13f4f17c547abe8c9f78c4fbef766a\play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:57:9-41
+	android:icon
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:56:9-42
+	android:theme
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:58:9-40
+activity#com.empover.htconstable.activities.SplashActivity
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:61:9-69:20
+	android:label
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:63:13-45
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:62:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:64:13-68:29
+action#android.intent.action.MAIN
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:65:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:67:17-77
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:67:27-74
+activity#com.empover.htconstable.activities.MainActivity
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:72:9-76:20
+	android:label
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:75:13-53
+	android:configChanges
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:74:13-63
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:73:13-75
+activity#com.empover.htconstable.activities.LoginActivity
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:77:9-81:20
+	android:label
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:80:13-45
+	android:configChanges
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:79:13-63
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:78:13-76
+activity#com.empover.htconstable.activities.MapActivity
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:83:9-85:66
+	android:configChanges
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:85:13-63
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:84:13-74
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:87:9-99:20
+	android:permission
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:89:13-73
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:88:13-71
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.empover.pushnotifications
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:90:13-98:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:17-81
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:95:17-86
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:95:25-83
+category#com.empover.pushnotifications
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:97:17-74
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:97:27-71
+service#com.empover.htconstable.GCMIntentService
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:101:9-76
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:101:18-73
+meta-data#com.google.android.gms.version
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:103:9-105:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:105:13-66
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:104:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:107:9-109:71
+	android:value
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:109:13-68
+	android:name
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:108:13-58
+uses-sdk
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3ce8ba21765191272ceb5fca70e86de3\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3ce8ba21765191272ceb5fca70e86de3\multidex-1.0.2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6c2164896ca319583b40d5b80aa35763\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\220ae695380e85551745015c2e1b8b2a\play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\220ae695380e85551745015c2e1b8b2a\play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d607c657d8fe6bad3c23b641e7cd5e0\play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d607c657d8fe6bad3c23b641e7cd5e0\play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b320a443effd06c78f4f9e5ddfe89b1a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f14a8d3cde177ec9b4d395ad01a54632\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\509a5cee1a8ef6861adca4d4fae37ad3\play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\509a5cee1a8ef6861adca4d4fae37ad3\play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\affb95c6d296e77910fd9cdc4e31de57\play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\affb95c6d296e77910fd9cdc4e31de57\play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cb7b4aa0e49c045c221fc874a7749d24\play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cb7b4aa0e49c045c221fc874a7749d24\play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\724d4027af463fc4cd3d17975d4d0561\play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c7c52f6660c284f6f05f9544d5616c4\play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c7c52f6660c284f6f05f9544d5616c4\play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ecf7ccc0dc602948f8d0e60728ff4f0b\play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ecf7ccc0dc602948f8d0e60728ff4f0b\play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ac07ef985d3e72dd8809c257c9d49c2a\firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ac07ef985d3e72dd8809c257c9d49c2a\firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\414227308e19d657975d498c6b72e2ad\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\414227308e19d657975d498c6b72e2ad\play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b807421e6b1ad9617e588ff73818ddcf\play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b807421e6b1ad9617e588ff73818ddcf\play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7a1a3f57c57264822a8284b734bcc2f4\play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7a1a3f57c57264822a8284b734bcc2f4\play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7021c19baa0fb24212afe8acfaa1f0f\play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7021c19baa0fb24212afe8acfaa1f0f\play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2b608286dfc08a69fd904fe98373e7cb\firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2b608286dfc08a69fd904fe98373e7cb\firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\304af567fabb5f8411571fa42554c87d\play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\304af567fabb5f8411571fa42554c87d\play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e65cd9870f36530b3a5235ebcff11878\play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9150913b7b4d8517d606863f66181c7f\firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9150913b7b4d8517d606863f66181c7f\firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c74c9082c92495c205d18ff9e2a619e3\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c74c9082c92495c205d18ff9e2a619e3\play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7c8377176e02b1ab9b6161a451ddc13\play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7c8377176e02b1ab9b6161a451ddc13\play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\93c4a503fc7b66e5b788c8e6ec0dd2a7\play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add702a3a1aef6eadd4313484a38bbf2\play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add702a3a1aef6eadd4313484a38bbf2\play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0eb3f7ee19185e653503adf7ad99f752\play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0eb3f7ee19185e653503adf7ad99f752\play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c27014fd3e0d9694829f447686ef007\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c27014fd3e0d9694829f447686ef007\play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7751dc7f949096411e66aba92aeda8ea\play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3648e0833f80513e64add7a74595fa49\play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3648e0833f80513e64add7a74595fa49\play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0cd8a20f4ff998979e68695e056106eb\play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0cd8a20f4ff998979e68695e056106eb\play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add3799a00e9216ece0d64dd667270af\play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\add3799a00e9216ece0d64dd667270af\play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3dcb9c701cb94bfdeed860324e3d7f7f\play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3dcb9c701cb94bfdeed860324e3d7f7f\play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7f92e6a95ce5efa610c444625cf5790a\play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7f92e6a95ce5efa610c444625cf5790a\play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43fe30964ea147b4ee6ebbef7f7b228\play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43fe30964ea147b4ee6ebbef7f7b228\play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2dceb389e78640b930da46f0e0dda253\firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46c2154a9fc31c47dcb6d0e5442f0240\firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46c2154a9fc31c47dcb6d0e5442f0240\firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d19721bead7315bb9fa784fee25bdb25\firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d19721bead7315bb9fa784fee25bdb25\firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\616603fdf8ffc636f700e6e014d2f384\firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\616603fdf8ffc636f700e6e014d2f384\firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\098515a8b252c0993502925e4a2f70f0\firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\098515a8b252c0993502925e4a2f70f0\firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\769790639664a02ddf5db119cecccf9a\play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\769790639664a02ddf5db119cecccf9a\play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\78fef9e11d4877a4d6b21fc546f0f600\play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\78fef9e11d4877a4d6b21fc546f0f600\play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe107eeeed7bd412899ab89f1619d5bf\play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a94edf78a298bc4b357b6079e102cc4b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\845e091032ca2061619bb35b5c2614bb\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f7239896cd8e1e382a3fd71565b8b288\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ad6141accb91052c9870b8d2e14fec9d\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ef79124f0bd9c34f8348139d6c78a5b7\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\f94f911c48b784483863caa0d1b69c79\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\43aa7bdd8895886c797a042cb22a6544\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7dc2e499cd571b6c5ba0eec437866f1\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2a029a3290af16a4d419d2d501adeda\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c6caa57dfc132cbd041e0dae542be0a2\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\dd5573a89bd75c3ee1c53810410ef2ba\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\aba2432f202774b83983d220847ad226\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\16c10e4d08e36217eb0763f1e03f94a9\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6019c7a0b9ddcb41301864a6ddfb18f\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\624064a09b6288a5178059d2123a43cf\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8524300dfafb44db53d40d03fc218ceb\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\8f12292d72be7916a05aca35e236c5a7\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eec9b276221d56f06908dc491920398d\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\990158c927c012d1677031ad14165542\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6d1ac33fa7bf63a59abf96edc65f6fce\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe6283a58839026a8ad542672ca589c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1697d9bc7a544183551856c5571ddc50\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\484db9973b2cf3f7eff1e10b8ff90ddc\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d43503f79af7698b41c1fdadbf3cc0ed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\83a6efe989782ba0ff7ff34408c7f22f\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0e337cc19638747a72f0dd7361d3b1f9\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\987e9b10c40dacf71c326fb133cfcf12\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bcc6fd35cc65f90790bfddae72ea5b9b\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1754c37170a596c2565dcdf21351b275\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3f1ddc69544fb1d99014591bd6b1b3d5\play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3f1ddc69544fb1d99014591bd6b1b3d5\play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7a1bd3671ffbce4a2bc400a5c95a723\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b7a1bd3671ffbce4a2bc400a5c95a723\play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e26629f13ebaed703353172e6fd8bf76\play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e26629f13ebaed703353172e6fd8bf76\play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2da401d7239213a9a5393d10ba7e2dc1\play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2da401d7239213a9a5393d10ba7e2dc1\play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2fa01b813d034d39c25e0e5ba2f41c23\play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2fa01b813d034d39c25e0e5ba2f41c23\play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4fb93d2c375faa318c9c846842dae9b3\play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4fb93d2c375faa318c9c846842dae9b3\play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d1327e1f9a9ae5533655b6026f69269\play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7d1327e1f9a9ae5533655b6026f69269\play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef640dd02b2e0c65b8808179cb7152b\play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef640dd02b2e0c65b8808179cb7152b\play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a79c7c9ccaa38f8217ba150b0f4c0b92\play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a79c7c9ccaa38f8217ba150b0f4c0b92\play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cc2138625a6f4704777aa6cd4669bd2f\play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cc2138625a6f4704777aa6cd4669bd2f\play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1f42b2f80c348f1a6d2fb267da5a4bc1\play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1f42b2f80c348f1a6d2fb267da5a4bc1\play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\90e426a6ee1ba19b8d697ec1dffc8ad7\firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\90e426a6ee1ba19b8d697ec1dffc8ad7\firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\48053fa022098e47f3e8cfa05169ca02\play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\48053fa022098e47f3e8cfa05169ca02\play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\44e33e1a48ddcd46067c0263dd78670b\firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\44e33e1a48ddcd46067c0263dd78670b\firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\5270d8cc7b73a1088a42a32151e35590\play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\5270d8cc7b73a1088a42a32151e35590\play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c788b1aa12168d4d7de0b802a1add4a0\play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c788b1aa12168d4d7de0b802a1add4a0\play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4706f7d4b5a293fa84e1dea138c86a38\firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\4706f7d4b5a293fa84e1dea138c86a38\firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\86fd5217be89baf3dab531db487c1713\firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\86fd5217be89baf3dab531db487c1713\firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a77722addacf43b7dae773ef49563ceb\firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a77722addacf43b7dae773ef49563ceb\firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2a031255061024a47a9281b3bb8549b5\firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2a031255061024a47a9281b3bb8549b5\firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c02b3f6abea322a762c78965a6ee7d0\firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c02b3f6abea322a762c78965a6ee7d0\firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\45fb6b7d47529b5bf5954bca91233a57\firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\45fb6b7d47529b5bf5954bca91233a57\firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b82ce2d324f861a1eb42bad18f5c413a\firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b82ce2d324f861a1eb42bad18f5c413a\firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d47a360adfe326430d3dc6c465d9981d\firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d47a360adfe326430d3dc6c465d9981d\firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c2fe50b5e520d776dc5e3f2dc461dfc\firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\2c2fe50b5e520d776dc5e3f2dc461dfc\firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0f5debe57fb5ad747071055b3041c4b5\play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0f5debe57fb5ad747071055b3041c4b5\play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb1633f892f94f8358a5086682f58c33\play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb1633f892f94f8358a5086682f58c33\play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a256907134ca657d4c2b4c982e0e7d7c\play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a256907134ca657d4c2b4c982e0e7d7c\play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cf1ed41d71e9e23ab38539fe559214df\play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\cf1ed41d71e9e23ab38539fe559214df\play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c286aaa6a96da8d75300b9cbd19840f\firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\3c286aaa6a96da8d75300b9cbd19840f\firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d0b6224e51ffc701616b0b7fa886fd9f\play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\d0b6224e51ffc701616b0b7fa886fd9f\play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9650f56ec5b8e48ab69674841faf9ece\play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\9650f56ec5b8e48ab69674841faf9ece\play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46d9f116e59ae38053e992d42142b74a\play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\46d9f116e59ae38053e992d42142b74a\play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\702af4f94c84f0f31eaa39b7fd3ea551\play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\702af4f94c84f0f31eaa39b7fd3ea551\play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\469a2b9d4c72253f78c448509d50d52f\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\469a2b9d4c72253f78c448509d50d52f\play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e07e6288970ca8fc6643dce862cc0b80\firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e07e6288970ca8fc6643dce862cc0b80\firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b4519ea983501685ce66ec42410a2c62\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b4519ea983501685ce66ec42410a2c62\firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0d836f32a7ba71489d72dfb7b2729613\play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\0d836f32a7ba71489d72dfb7b2729613\play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c8adc4b8cd7e77c9dae2346220d98ed\play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7c8adc4b8cd7e77c9dae2346220d98ed\play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1e4e9a24f5cd71ed79d0f30ac79a2749\play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\1e4e9a24f5cd71ed79d0f30ac79a2749\play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a756cf3ad8ffd75bffb6e252273eb06d\play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a756cf3ad8ffd75bffb6e252273eb06d\play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c64f1ca05ee803c9e4925b26ba1b57ac\play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c64f1ca05ee803c9e4925b26ba1b57ac\play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eaf5481e630c0a8668bbe83760f97414\play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eaf5481e630c0a8668bbe83760f97414\play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6ab20106c5730de48abc39400a769c7c\play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6ab20106c5730de48abc39400a769c7c\play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ff87a7705bac2fbd53e1b80240ff34c4\play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ff87a7705bac2fbd53e1b80240ff34c4\play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\65dbefb22cc1b752ed9ae0af2607f8c0\play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\65dbefb22cc1b752ed9ae0af2607f8c0\play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\91cacca12c0937bf4be2916daeae694e\play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\91cacca12c0937bf4be2916daeae694e\play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bd9d0f64c3b17f765ba842c5bd8a11c6\play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\bd9d0f64c3b17f765ba842c5bd8a11c6\play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2f3bbf00a52547ba4fe536b513c33cc\play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e2f3bbf00a52547ba4fe536b513c33cc\play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb13f4f17c547abe8c9f78c4fbef766a\play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\eb13f4f17c547abe8c9f78c4fbef766a\play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\509a5cee1a8ef6861adca4d4fae37ad3\play-services-ads-12.0.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		ADDED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\6bd3ae2e9a26be7155a18268ca0f8a7d\palette-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:30:13-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.empover.htconstable
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ee2466482922628ccbdd0cda832e69bc\firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.empover.htconstable
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+category#com.empover.htconstable
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:9:13-77

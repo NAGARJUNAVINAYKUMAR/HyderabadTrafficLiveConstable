@@ -1,0 +1,468 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.empover.htconstable"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml
+10
+11    <!-- GCM requires Android SDK version 2.2 (API level 8) or above. -->
+12    <!-- <uses-sdk android:targetSdkVersion="26" /> -->
+13
+14
+15    <!-- GCM connects to Internet Services. -->
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:11:5-67
+16-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:11:22-64
+17
+18    <!-- permission to make a call -->
+19    <uses-permission android:name="android.permission.CALL_PHONE" />
+19-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:14:5-68
+19-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:14:22-66
+20
+21    <!-- GCM requires a Google account. -->
+22    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+22-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:17:5-71
+22-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:17:22-68
+23
+24    <!-- Keeps the processor from sleeping when a message is received. -->
+25    <uses-permission android:name="android.permission.WAKE_LOCK" />
+25-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:20:5-68
+25-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:20:22-65
+26
+27    <!-- Creates a custom permission so only this app can receive its messages. -->
+28    <permission
+28-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:23:5-25:47
+29        android:name="com.empover.htconstable.permission.C2D_MESSAGE"
+29-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:24:9-70
+30        android:protectionLevel="signature" />
+30-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:25:9-44
+31
+32    <uses-permission android:name="com.empover.htconstable.permission.C2D_MESSAGE" />
+32-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:27:5-86
+32-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:27:22-83
+33
+34    <permission
+34-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:29:5-31:47
+35        android:name="com.empover.htconstable.permission.MAPS_RECEIVE"
+35-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:30:9-71
+36        android:protectionLevel="signature" />
+36-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:31:9-44
+37
+38    <uses-permission android:name="com.empover.htconstable.permission.MAPS_RECEIVE" />
+38-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:33:5-87
+38-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:33:22-84
+39
+40    <!-- This app has permission to register and receive data message. -->
+41    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+41-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:36:5-82
+41-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:36:22-79
+42
+43    <!-- Network State Permissions to detect Internet status -->
+44    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+44-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:39:5-79
+44-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:39:22-76
+45
+46    <!-- Write External Storage Permossion allows to store cache map data -->
+47    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+47-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:42:5-80
+47-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:42:22-78
+48
+49    <!-- Allows the API to use WiFi or mobile data to determine the device's location -->
+50    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+50-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:45:5-80
+50-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:45:22-78
+51    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+51-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:47:5-78
+51-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:47:22-76
+52    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+52-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:49:5-98
+52-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:49:22-95
+53
+54    <!-- Permission to vibrate -->
+55    <uses-permission android:name="android.permission.VIBRATE" />
+55-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:52:5-66
+55-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:52:22-63
+56
+57    <uses-feature
+57-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+58        android:glEsVersion="0x00020000"
+58-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+59        android:required="true" /> <!-- Main activity. -->
+59-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fef2576ef7e0c23a67d8aff3ebb6ab52\play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+60    <application
+60-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:55:5-110:19
+61        android:name="android.support.multidex.MultiDexApplication"
+62        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+62-->[com.android.support:support-compat:28.0.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\895559d2bf708e950c8f9daa6bb1fb41\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+63        android:debuggable="true"
+64        android:icon="@drawable/app_logo"
+64-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:56:9-42
+65        android:label="@string/app_name"
+65-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:57:9-41
+66        android:testOnly="true"
+67        android:theme="@style/AppTheme" >
+67-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:58:9-40
+68
+69        <!-- Register Activity -->
+70        <activity
+70-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:61:9-69:20
+71            android:name="com.empover.htconstable.activities.SplashActivity"
+71-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:62:13-77
+72            android:label="@string/app_name" >
+72-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:63:13-45
+73            <intent-filter>
+73-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:64:13-68:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:65:17-69
+74-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:65:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:67:17-77
+76-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:67:27-74
+77            </intent-filter>
+78        </activity>
+79
+80        <!-- Main Activity -->
+81        <activity
+81-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:72:9-76:20
+82            android:name="com.empover.htconstable.activities.MainActivity"
+82-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:73:13-75
+83            android:configChanges="orientation|keyboardHidden"
+83-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:74:13-63
+84            android:label="@string/main_screen_name" >
+84-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:75:13-53
+85        </activity>
+86        <activity
+86-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:77:9-81:20
+87            android:name="com.empover.htconstable.activities.LoginActivity"
+87-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:78:13-76
+88            android:configChanges="orientation|keyboardHidden"
+88-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:79:13-63
+89            android:label="@string/app_name" >
+89-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:80:13-45
+90        </activity>
+91        <activity
+91-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:83:9-85:66
+92            android:name="com.empover.htconstable.activities.MapActivity"
+92-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:84:13-74
+93            android:configChanges="orientation|keyboardHidden" />
+93-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:85:13-63
+94
+95        <receiver
+95-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:87:9-99:20
+96            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+96-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:88:13-71
+97            android:permission="com.google.android.c2dm.permission.SEND" >
+97-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:89:13-73
+98            <intent-filter>
+98-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:90:13-98:29
+99
+100                <!-- Receives the actual messages. -->
+101                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+101-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:17-81
+101-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:25-78
+102                <!-- Receives the registration id. -->
+103                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+103-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:95:17-86
+103-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:95:25-83
+104
+105                <category android:name="com.empover.pushnotifications" />
+105-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:97:17-74
+105-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:97:27-71
+106            </intent-filter>
+107        </receiver>
+108
+109        <service android:name="com.empover.htconstable.GCMIntentService" />
+109-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:101:9-76
+109-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:101:18-73
+110
+111        <meta-data
+111-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:103:9-105:69
+112            android:name="com.google.android.gms.version"
+112-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:104:13-58
+113            android:value="@integer/google_play_services_version" />
+113-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:105:13-66
+114        <meta-data
+114-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:107:9-109:71
+115            android:name="com.google.android.geo.API_KEY"
+115-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:108:13-58
+116            android:value="AIzaSyCVNt-1S41GMV9kbYW_VcYEKaQvY0V6y4g" />
+116-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:109:13-68
+117
+118        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+118-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:8:9-100
+118-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:8:19-97
+119
+120        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+120-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:10:9-104
+120-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:10:18-101
+121        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+121-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:11:9-93
+121-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\fe9d6e25ca9e80e46d0ed2903cc5e0cf\play-services-cast-framework-12.0.1\AndroidManifest.xml:11:18-90
+122
+123        <meta-data
+123-->[com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+124            android:name="android.support.VERSION"
+124-->[com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:24:13-51
+125            android:value="26.1.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+125-->[com.android.support:mediarouter-v7:26.1.0] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7b8724a1fb54ac905272a248805b6c43\mediarouter-v7-26.1.0\AndroidManifest.xml:25:13-35
+126        <activity
+126-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
+127            android:name="com.google.android.gms.ads.AdActivity"
+127-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:30:13-65
+128            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+128-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:31:13-122
+129            android:exported="false"
+129-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:32:13-37
+130            android:theme="@android:style/Theme.Translucent" />
+130-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\384dc6783aced76c81826c0ec71721c2\play-services-ads-lite-12.0.1\AndroidManifest.xml:33:13-61
+131
+132        <receiver
+132-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:30:9-34:20
+133            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+133-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:31:13-78
+134            android:enabled="true"
+134-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:32:13-35
+135            android:exported="false" >
+135-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:33:13-37
+136        </receiver>
+137
+138        <service
+138-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:36:9-39:40
+139            android:name="com.google.android.gms.analytics.AnalyticsService"
+139-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:37:13-77
+140            android:enabled="true"
+140-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:38:13-35
+141            android:exported="false" />
+141-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:39:13-37
+142        <service
+142-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:40:9-44:72
+143            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+143-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:41:13-80
+144            android:enabled="true"
+144-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:42:13-35
+145            android:exported="false"
+145-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:43:13-37
+146            android:permission="android.permission.BIND_JOB_SERVICE" />
+146-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\71687365286fe11f59e8d76c2abc7f0e\play-services-analytics-12.0.1\AndroidManifest.xml:44:13-69
+147
+148        <activity
+148-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:25:9-34:20
+149            android:name="com.google.android.gms.appinvite.PreviewActivity"
+149-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:26:13-76
+150            android:exported="true"
+150-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:27:13-36
+151            android:theme="@style/Theme.AppInvite.Preview" >
+151-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:28:13-59
+152            <intent-filter>
+152-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:29:13-33:29
+153                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+153-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:30:17-90
+153-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:30:25-87
+154
+155                <category android:name="android.intent.category.DEFAULT" />
+155-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+155-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+156            </intent-filter>
+157        </activity>
+158        <activity
+158-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+159            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+159-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+160            android:excludeFromRecents="true"
+160-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+161            android:exported="false"
+161-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+162            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+162-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+163        <!--
+164            Service handling Google Sign-In user revocation. For apps that do not integrate with
+165            Google Sign-In, this service will never be started.
+166        -->
+167        <service
+167-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+168            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+168-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+169            android:exported="true"
+169-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+170            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+170-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\7171ca854d394217dfbef28063f764de\play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+171
+172        <activity
+172-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+173            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+173-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+174            android:excludeFromRecents="true"
+174-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+175            android:exported="true"
+175-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+176            android:launchMode="singleInstance"
+176-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+177            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+177-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+178-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\c49b6f204b0df25b836f472b613131f5\firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+179        <activity
+179-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+180            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+180-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+181            android:exported="false"
+181-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+182            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+182-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a44941c22d5db2eea54b4202664e8514\play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+183        <!--
+184             FirebaseMessagingService performs security checks at runtime,
+185             no need for explicit permissions despite exported="true"
+186        -->
+187        <service
+187-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+188            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+188-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+189            android:exported="true" >
+189-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+190            <intent-filter android:priority="-500" >
+190-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+190-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+191                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+191-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+191-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\be2db8570efa894d8395b92299a00a0e\firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+192            </intent-filter>
+193        </service>
+194        <service
+194-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:27:9-30:40
+195            android:name="com.google.android.gms.tagmanager.TagManagerService"
+195-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:28:13-79
+196            android:enabled="true"
+196-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:29:13-35
+197            android:exported="false" />
+197-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:30:13-37
+198
+199        <activity
+199-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:32:9-44:20
+200            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+200-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
+201            android:exported="true"
+201-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:34:13-36
+202            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+202-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:35:13-37
+203            <intent-filter>
+203-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+204                <data android:scheme="tagmanager.c.com.empover.htconstable" />
+204-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
+204-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
+205
+206                <action android:name="android.intent.action.VIEW" />
+206-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:17-69
+206-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:25-66
+207
+208                <category android:name="android.intent.category.DEFAULT" />
+208-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+208-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\ba0f58d8bc9dfa8c914922c4cd4feef0\play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+209                <category android:name="android.intent.category.BROWSABLE" />
+209-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:17-78
+209-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\904cd0c0645e59c996e2a38810a52a00\play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:27-75
+210            </intent-filter>
+211        </activity>
+212
+213        <receiver
+213-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+214            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+214-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+215            android:enabled="true"
+215-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+216            android:exported="false" >
+216-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+217        </receiver>
+218        <receiver
+218-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+219            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+219-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+220            android:enabled="true"
+220-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+221            android:exported="true"
+221-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+222            android:permission="android.permission.INSTALL_PACKAGES" >
+222-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+223            <intent-filter>
+223-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+224                <action android:name="com.android.vending.INSTALL_REFERRER" />
+224-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+224-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+225            </intent-filter>
+226        </receiver>
+227
+228        <service
+228-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+229            android:name="com.google.android.gms.measurement.AppMeasurementService"
+229-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+230            android:enabled="true"
+230-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+231            android:exported="false" />
+231-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+232        <service
+232-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+233            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+233-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+234            android:enabled="true"
+234-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+235            android:exported="false"
+235-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+236            android:permission="android.permission.BIND_JOB_SERVICE" />
+236-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\b6df32aac382db1ae42e8f0b1c6f6043\firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+237
+238        <receiver
+238-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+239            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+239-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+240            android:exported="true"
+240-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+241            android:permission="com.google.android.c2dm.permission.SEND" >
+241-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+242            <intent-filter>
+242-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+243                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+243-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:17-81
+243-->E:\Android\Workspace\HyderabadTrafficLiveConstable\app\src\main\AndroidManifest.xml:93:25-78
+244
+245                <category android:name="com.empover.htconstable" />
+245-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+245-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+246            </intent-filter>
+247        </receiver>
+248        <!--
+249             FirebaseInstanceIdService performs security checks at runtime,
+250             no need for explicit permissions despite exported="true"
+251        -->
+252        <service
+252-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+253            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+253-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+254            android:exported="true" >
+254-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+255            <intent-filter android:priority="-500" >
+255-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+255-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+256                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+256-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+256-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\a87de4955364f8639fac2bc6118ef7d8\firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+257            </intent-filter>
+258        </service>
+259
+260        <provider
+260-->[com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+261            android:name="com.google.firebase.provider.FirebaseInitProvider"
+261-->[com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+262            android:authorities="com.empover.htconstable.firebaseinitprovider"
+262-->[com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+263            android:exported="false"
+263-->[com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+264            android:initOrder="100" />
+264-->[com.google.firebase:firebase-common:12.0.1] C:\Users\VINAY\.gradle\caches\transforms-2\files-2.1\e040c202090ef56025cc6f39ba3457e5\firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+265    </application>
+266
+267</manifest>

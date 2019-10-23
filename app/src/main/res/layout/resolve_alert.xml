@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popup_bg"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:text="Complaint ID -" />
+
+        <TextView
+            android:id="@+id/resolve_complainId"
+            android:layout_width="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_row1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/list_item_map_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/complaint_img" />
+
+            <TextView
+                android:id="@+id/resolve_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="COMPLAINT"
+                android:textSize="@dimen/list_value_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/vehicleno_img" />
+
+            <TextView
+                android:id="@+id/resolve_vehicleNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="VEHICLE NO"
+                android:textSize="@dimen/list_value_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/resolve_dailBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/mobileno_img" />
+
+            <TextView
+                android:id="@+id/resolve_mobileNo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MOBILE NO"
+                android:textSize="@dimen/list_value_size" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <Spinner
+            android:id="@+id/resolve_resolveType"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:background="@drawable/b_btn" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="2dp" >
+
+        <EditText
+            android:id="@+id/resolve_comments"
+            android:layout_width="match_parent"
+            android:layout_height="76dp"
+            android:background="@drawable/edittext_roundedges"
+            android:ems="10"
+            android:gravity="top"
+            android:hint="ENTER COMMENTS"
+            android:inputType="textMultiLine"
+            android:padding="5dp"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/resolve_resolveBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:background="@drawable/btn_bg_1"
+            android:padding="@dimen/dialog_padding"
+            android:paddingRight="2dp"
+            android:text="RESOLVED"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/resolve_cancelBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:background="@drawable/btn_bg_1"
+            android:padding="@dimen/dialog_padding"
+            android:paddingLeft="2dp"
+            android:text="CANCEL"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>
